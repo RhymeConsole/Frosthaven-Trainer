@@ -9,7 +9,7 @@
 > **[⬇️ Download the latest Frosthaven trainer](../../releases/latest)**
 
 <p align="center">
-    <a href="../../releases/latest/download/Frosthaven-Trainer.zip">
+    <a href="../../releases/latest/download/FrosthavenTrainer.zip">
         <img src="assets/banner.png" width="100%" alt="Download Frosthaven trainer">
     </a>
 </p>
